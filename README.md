@@ -84,8 +84,8 @@ A demonstração apresenta o fluxo completo do projeto, desde o preenchimento do
 ## 📁 Arquivos do projeto
 
 - `Base_Ficticia_Service_Desk.xlsx` — base de dados utilizada no projeto.
-- `dashboard-power-bi.pdf` — versão em PDF do dashboard.
-- `imagens/` — capturas das principais etapas do projeto.
+- `dashboard-power-bi.pdf` — versão em PDF do dashboard desenvolvido no Power BI.
+- `formulario-abertura-chamado.png` — captura do formulário utilizado para registro dos chamados.
 
 ## 🧠 Competências aplicadas
 
