@@ -43,6 +43,7 @@ Os dados são importados para o Power BI, onde são construídos indicadores e v
 - Power BI
 
 ## 📊 Dashboard
+![Dashboard de Gestão e Análise de Chamados de TI](dashboard-power-bi.png)
 
 O dashboard apresenta indicadores relacionados ao atendimento dos chamados, incluindo:
 
@@ -83,9 +84,9 @@ A demonstração apresenta o fluxo completo do projeto, desde o preenchimento do
 
 ## 📁 Arquivos do projeto
 
-- `Base_Ficticia_Service_Desk.xlsx` — base de dados utilizada no projeto.
-- `dashboard-power-bi.pdf` — versão em PDF do dashboard desenvolvido no Power BI.
-- `formulario-abertura-chamado.png` — captura do formulário utilizado para registro dos chamados.
+- [📊 Base de dados em Excel](Base_Ficticia_Service_Desk.xlsx) — base fictícia utilizada para simular os chamados de Service Desk N1.
+- [📄 Dashboard em PDF](dashboard-power-bi.pdf) — versão em PDF do dashboard desenvolvido no Power BI.
+- [📝 Formulário de abertura de chamado](formulario-abertura-chamado.png) — captura do formulário utilizado para registro das solicitações.
 
 ## 🧠 Competências aplicadas
 
