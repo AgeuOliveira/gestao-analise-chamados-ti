@@ -44,6 +44,7 @@ Os dados são importados para o Power BI, onde são construídos indicadores e v
 
 ## 📊 Dashboard
 ![Dashboard de Gestão e Análise de Chamados de TI](dashboard-power-bi.png)
+[📄 Visualizar dashboard em PDF](dashboard-power-bi.pdf)
 
 O dashboard apresenta indicadores relacionados ao atendimento dos chamados, incluindo:
 
